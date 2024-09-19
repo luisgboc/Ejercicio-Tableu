@@ -1,5 +1,6 @@
 # Ejercicio-Tableu
 Ejercicio en Tableu - Diplomado en ciencia de datos
+https://public.tableau.com/app/profile/luis.guillermo.brice.o/viz/CasoPracticoTableu/Dashboard1
 
 Observaciones del ejercicio práctico para Tableu.
 
